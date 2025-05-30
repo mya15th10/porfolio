@@ -1,5 +1,4 @@
-# node-portfolio
-Simple web for personal portfolio using node.js, express, MySQL
+
 
 ## Getting Started
 
